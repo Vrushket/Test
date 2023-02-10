@@ -4,6 +4,7 @@ namespace CalculatorApp
     {
         double FirstNumber;
         string Operation;
+        string test1;
         public Form1()
         {
             InitializeComponent();
