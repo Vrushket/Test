@@ -5,6 +5,7 @@ namespace CalculatorApp
         double FirstNumber;
         string Operation;
         string test1;
+        string test3;
         public Form1()
         {
             InitializeComponent();
@@ -158,7 +159,7 @@ namespace CalculatorApp
 
         private void bc_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "0";
+            textBox1.Text = "1";
         }
 
      
